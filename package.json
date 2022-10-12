@@ -1,0 +1,30 @@
+{
+  "name": "modo_asincrono",
+  "version": "1.0.0",
+  "description": "modoasincrono",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon promises/1_simple.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valen-tina-14/modo_asincrono.git"
+  },
+  "keywords": [
+    "es6",
+    "es2015",
+    "modo",
+    "asincrono"
+  ],
+  "author": "Valentina Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valen-tina-14/modo_asincrono/issues"
+  },
+  "homepage": "https://github.com/Valen-tina-14/modo_asincrono#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
